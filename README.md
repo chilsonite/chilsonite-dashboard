@@ -1,3 +1,20 @@
+<p align="center">
+  <!-- ロゴ表示 -->
+  <img src="./images/chilsonite-logo.svg" alt="Chilsonite Logo" width="200" />
+</p>
+
+<p align="center">
+  <!-- CI Status バッジ -->
+  <a href="https://github.com/chilsonite/chilsonite-dashboard/actions">
+    <img src="https://img.shields.io/github/actions/workflow/status/chilsonite/chilsonite-dashboard/ci.yml?branch=main"
+         alt="CI Status" />
+  </a>
+  <!-- Star バッジ -->
+  <a href="https://github.com/chilsonite/chilsonite-dashboard/stargazers">
+    <img src="https://img.shields.io/github/stars/chilsonite/chilsonite-dashboard?style=social" alt="GitHub stars" />
+  </a>
+</p>
+
 # Chilsonite Dashboard
 
 ## Overview
