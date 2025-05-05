@@ -1,0 +1,16 @@
+{
+  "root": "src/app",
+  "public": "public",
+  "router": {
+    "excludes": ["_*", "@*"]
+  },
+  "layout": {
+    "includes": ["**/layout.tsx"]
+  },
+  "page": {
+    "includes": ["**/page.tsx"]
+  },
+  "api": {
+    "include": ["**/api/**/*.ts"]
+  }
+}

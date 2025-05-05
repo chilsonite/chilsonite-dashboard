@@ -1,0 +1,17 @@
+**/*
+!react-server.config.*
+!react-server.*.config.*
+!src
+!public
+!package.json
+!README.md
+!eslint.config.mjs
+!tsconfig.json
+!vite.config.ts
+!src/global.css
+!.gitignore
+!pnpm-lock.yaml
+!.prettierignore
+!.prettierrc
+!globals.d.ts
+!react-server.config.json
